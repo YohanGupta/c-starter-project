@@ -1,6 +1,6 @@
-# cpp starter project
+# c starter project
 
-## c++ starter project template for linux machines
+## c starter project template for linux machines
 
 ### Makefile credits: [source](http://bajamircea.github.io/coding/tools/2016/06/09/starter-cpp-program-makefile.html)
 
