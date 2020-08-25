@@ -9,6 +9,7 @@
 - make sure your have `GNU make` installed by running the following command command
   - `$ make -v`
 - clone this repository as your project name
+- place your source files in `src` directory
 - to build the project run `$ make` in your project directory
 - to build and run the project run `$ make run` in the project directory
 - to remove everything created by the `make` programme run `$ make clean` in project directory
