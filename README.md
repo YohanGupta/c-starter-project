@@ -15,4 +15,4 @@
 - to remove everything created by the `make` programme run `$ make clean` in project directory
 - your binaries are created in `bin` directory
 - `int` directory contains your object files `*.o` and dependancy files `*.d`
-- run `$ git remote rm origin` to remove the origin remote
+- run `$ git remote rm origin` to remove the origin remote linked to this github repository
