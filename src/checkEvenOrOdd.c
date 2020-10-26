@@ -1,6 +1,6 @@
 #include <stdio.h> 
 
-void main
+void main()
 { 
   int num = 6; 
   if(num%2==0) 
